@@ -6,7 +6,7 @@ Trendaizer is a project that leverages deep learning to forecast trends in the s
 
 Trendaizer aims to predict weekly stock market trends, enabling investors and traders to gain insights into potential market movements. The application uses historical stock data to train an LSTM model, which forecasts the probability of upward or downward trends.
 
-## Arquitectura
+## Arquitechture 
 
 The core of the Trendaizer project focuses on a Long Short Term Memory (LSTM) model for stock market trend prediction. The model architecture is made up of the following components:
 
@@ -24,7 +24,7 @@ The core of the Trendaizer project focuses on a Long Short Term Memory (LSTM) mo
 4. **Compilation**:
  - The model is compiled with the 'adam' optimizer, an 'mse' (mean squared error) loss function, and the accuracy metric to evaluate the model's performance during training.
 
-## Proceso
+## Process 
 
 1. **Data Collection**: 
    - Historical stock data is downloaded using the `yfinance` library.
@@ -46,17 +46,17 @@ The core of the Trendaizer project focuses on a Long Short Term Memory (LSTM) mo
 
 ![texto](https://cdn.discordapp.com/attachments/699128484097818684/1261090905956290721/Screenshot_2024-07-04_212821.png?ex=6691b1ed&is=6690606d&hm=053aa3db8dd0b3d2b1124bf3729c81aa6d9b4d065a91781b5ab0fff860cc4ce6&)
 
-## Estado del proyecto
+## Project state 
 
 The project is currently decently efecctive. The LSTM model has been trained and tested with historical data, and the initial version of the Streamlit application is operational. Future enhancements include improving model accuracy, adding more features, and enhancing the web interface.
 
-## Agradecimientos
+## Special Thanks 
 
 A special thanks to Samsung Innovation Campus for the opportunity to acquire all the knowledge provided to open the doors to this field of artificial intelligence.
 
 And to our teacher Giancarlo Colasante who accompanied us throughout this teaching career and also made it possible for us to take full advantage of his valuable knowledge and experiences.
 
-## 🛠️ Instalación
+## 🛠️ Installation 
 
 ### 💻 Local Installation
 
@@ -78,7 +78,7 @@ To set up the project locally, follow these steps:
     streamlit run app.py
     ```
 
-## Uso
+## Use 
 
 1. Open the Streamlit application in your web browser.
 2. Select a stock from the dropdown menu.
