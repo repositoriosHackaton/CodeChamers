@@ -2,7 +2,6 @@
 
 Trendaizer is a project that leverages deep learning to forecast trends in the stock market, helping users make informed decisions. By utilizing historical stock market data, we train a model that can anticipate future trends with the aid of Long Short Term Memory (LSTM) networks.
 
-## Descripción
 
 Trendaizer aims to predict weekly stock market trends, enabling investors and traders to gain insights into potential market movements. The application uses historical stock data to train an LSTM model, which forecasts the probability of upward or downward trends.
 
