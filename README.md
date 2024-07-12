@@ -63,7 +63,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/trendaizer.git
+    git https://github.com/repositoriosHackaton/CodeChamers.git
     cd trendaizer
     ```
 
@@ -86,5 +86,6 @@ To set up the project locally, follow these steps:
 
 ### Resources that help us:
 [Theorycal explanation of Prediction of stock return by LSTM neural network](https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151159)
+
 [Common mistakes on the use of LSTM](https://www.youtube.com/watch?v=Vfx1L2jh2Ng)
 
